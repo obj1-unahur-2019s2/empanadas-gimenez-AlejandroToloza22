@@ -33,7 +33,7 @@ object galvan {
 	method totalCobrado() {}
 }
 
-object baigorria {
+object  {
 	var cantidadEmpanadasVendidas = 100
 	var montoPorEmpanada = 15
 	var dinero = 0
